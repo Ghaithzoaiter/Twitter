@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@arcjet/inspect": "^1.0.0-beta.10",
+    "@arcjet/node": "^1.0.0-beta.10",
+    "@clerk/clerk-expo": "^2.14.20",
+    "express": "^5.1.0"
+  }
+}
